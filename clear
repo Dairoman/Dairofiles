@@ -1,0 +1,77 @@
+[33mcommit c40b6430487f3a8b41f1875e93e8faf3abcbf50d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: dairo <obiesieik@yahoo.com>
+Date:   Tue Sep 27 03:40:58 2022 +0000
+
+    This reverts commit 85c5be94ae2b23184d8c02e99b5d93195fd30da1.
+
+[33mcommit 85c5be94ae2b23184d8c02e99b5d93195fd30da1[m
+Author: dairo <obiesieik@yahoo.com>
+Date:   Tue Sep 27 03:36:26 2022 +0000
+
+    committed new changes
+
+[33mcommit 1852ef6fdc71e520e9864c5bd21860aeb39eaa4f[m
+Author: dairo <obiesieik@yahoo.com>
+Date:   Tue Sep 27 02:48:47 2022 +0000
+
+    test.xml
+
+[33mcommit 00d366fc46c85162e725d1c3c2cc91a15cd268b1[m
+Author: dairo <obiesieik@yahoo.com>
+Date:   Tue Sep 27 02:16:05 2022 +0000
+
+    boy.java
+
+[33mcommit 3f2c817fb6f4b498f7d459b8faaa8ef962257450[m
+Author: dairo <obiesieik@yahoo.com>
+Date:   Tue Sep 27 02:13:02 2022 +0000
+
+    one
+
+[33mcommit 13344c733bcd97e9e26fd371d21f6eb0597415c8[m
+Author: dairo <obiesieik@yahoo.com>
+Date:   Sat Sep 24 00:56:16 2022 +0000
+
+    abc.java
+
+[33mcommit cead4b413a183bd15dfa7a65d7b8bc74946f276a[m
+Author: dairo <obiesieik@yahoo.com>
+Date:   Sat Sep 24 00:52:38 2022 +0000
+
+    one
+
+[33mcommit 77ea906ab3f9a2dc7d44b64ee5c30a84d94041f4[m
+Author: dairo <obiesieik@yahoo.com>
+Date:   Sat Sep 24 00:35:41 2022 +0000
+
+    one
+
+[33mcommit d1447ec8b2c79ff6d029b65735fcebb4b9c87120[m
+Author: dairo <obiesieik@yahoo.com>
+Date:   Sat Sep 24 00:11:56 2022 +0000
+
+    one
+
+[33mcommit ae7f85467b775601e1990733deae69070b14af11[m[33m ([m[1;33mtag: V1.0[m[33m)[m
+Author: dairo <obiesieik@yahoo.com>
+Date:   Fri Sep 23 23:55:27 2022 +0000
+
+    one.java
+
+[33mcommit 8b8d783dd604594a9a2dd651c46d2af4842f9d7c[m
+Author: dairo <obiesieik@yahoo.com>
+Date:   Fri Sep 23 00:19:49 2022 +0000
+
+    boy and girl.java
+
+[33mcommit f4c5a181ad2a7d61412c201b3e2a781fd496d6ef[m
+Author: root <root@ip-172-31-80-250.ec2.internal>
+Date:   Thu Sep 22 13:24:53 2022 +0000
+
+    xyz and mno.java
+
+[33mcommit e64f2daf4d644789bbb0c356666c7d0e14b11b3c[m
+Author: root <root@ip-172-31-80-250.ec2.internal>
+Date:   Thu Sep 22 12:01:59 2022 +0000
+
+    created abc.java
